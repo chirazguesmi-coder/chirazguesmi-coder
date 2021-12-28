@@ -1,7 +1,7 @@
 # chirazguesmi-coder
 ### Hi there 👋, my name is chiraz
 #### Development  (IOT /ML) 
-<img align="left" width="47%" height ="30%" src="https://github.com/chirazguesmi-coder/chirazguesmi-coder/blob/main/ICT%20engineer%20(1).png" />
+<img align="left"  src="https://github.com/chirazguesmi-coder/chirazguesmi-coder/blob/main/ICT%20engineer%20(1).png" />
 
 
 
