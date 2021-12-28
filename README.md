@@ -1,7 +1,9 @@
 # chirazguesmi-coder
 ### Hi there 👋, my name is chiraz
 #### Development  (IOT /ML) 
-![Development  (IOT /ML) ](https://github.com/chirazguesmi-coder/chirazguesmi-coder/blob/main/ICT%20engineer%20(1).png)
+![Development  (IOT /ML) ]
+<img align="right" width="47% src"(https://github.com/chirazguesmi-coder/chirazguesmi-coder/blob/main/ICT%20engineer%20(1).png" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirazguesmi-coder" />
 
  I'm chiraz from Tunsia, and I do content on Development, ML , IOT , IA . I really enjoy learning languages and frameworks like python , php as well as work in jupyter and laravel. I also enjoy learning new things .
 ## Skiils and experiences 
